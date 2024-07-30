@@ -1,0 +1,296 @@
+item_id,name,category,price,description,portion (personas),ingredients,image URL,key words
+,Mojito Clásico,Bebibles con alcohol,1000,"Un refrescante cóctel cubano hecho con ron blanco, menta fresca, azúcar, limón y soda.",1,"Ron blanco
+Menta fresca
+Azúcar
+Jugo de limón
+Soda
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//mojito_clasico.png,"['Hierbas', 'frescas', 'Preparación', 'artesanal']"
+,Negroni,Bebibles con alcohol,1200,"Un cóctel italiano clásico con una mezcla equilibrada de gin, vermut rojo y Campari.",1,"Gin
+Vermut rojo
+Campari
+Rodaja de naranja
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//negroni.png,"['Maceración', 'cuidadosa']"
+,Pisco Sour,Bebibles con alcohol,1150,"Bebida tradicional peruana hecha con pisco, jugo de limón, azúcar, clara de huevo y amargo de Angostura.",1,"Pisco
+Jugo de limón
+Azúcar
+Clara de huevo
+Amargo de Angostura
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//pisco_sour.png,"['Preparación', 'artesanal']"
+,Caipirinha,Bebibles con alcohol,950,"El cóctel brasileño más famoso, preparado con cachaça, limón y azúcar.",1,"Cachaça
+Limón
+Azúcar
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//caipirinha.png,"['Frutas', 'de', 'estación']"
+,Aperol Spritz,Bebibles con alcohol,1100,"Refrescante y ligeramente amargo, este cóctel combina Aperol, prosecco y un toque de soda.",1,"Aperol
+Prosecco
+Soda
+Rodaja de naranja
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//aperol_spritz.png,"['Ingredientes', 'de', 'calidad']"
+,Limonada de Menta y Jengibre,Bebibles sin alcohol,600,"Refrescante limonada con un toque de menta y jengibre, perfecta para días calurosos.",1,"Limón
+Azúcar
+Menta fresca
+Jengibre
+Agua
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//limonada_de_menta_y_jengibre.png,"['Menta', 'fresca', 'Limón', 'exprimido']"
+,Smoothie de Frutos Rojos,Bebibles sin alcohol,700,"Mezcla de frutillas, arándanos y frambuesas, con un toque de yogur y miel.",1,"Frutillas
+Arándanos
+Frambuesas
+Yogur
+Miel
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//smoothie_de_frutos_rojos.png,"['Frutas', 'frescas', 'Sin', 'aditivos']"
+,Té Helado de Durazno,Bebibles sin alcohol,650,"Refrescante té helado con un toque de durazno, ideal para acompañar una comida ligera.",2,"Té negro
+Jugo de durazno
+Azúcar
+Rodaja de durazno
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//te_helado_de_durazno.png,"['Infusión', 'natural', 'Endulzado', 'a', 'elección']"
+,Agua de Coco,Bebibles sin alcohol,500,"Agua de coco natural, servida bien fría para refrescarse y rehidratarse.",2,"Agua de coco natural
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//agua_de_coco.png,"['100%', 'natural', 'Sin', 'conservantes']"
+,Mojito Sin Alcohol,Bebibles sin alcohol,650,"Versión sin alcohol del clásico mojito, con menta, limón y soda.",1,"Menta fresca
+Limón
+Azúcar
+Soda
+Hielo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//mojito_sin_alcohol.png,"['Hierbas', 'frescas', 'Preparación', 'artesanal']"
+,Tiramisú Clásico,Postre,1200,"Postre italiano de capas de bizcochos empapados en café, con crema de mascarpone y cacao espolvoreado.",1,"Bizcochos de soletilla
+Café expreso
+Queso mascarpone
+Huevos
+Azúcar
+Cacao en polvo
+Licor de café",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//tiramisu_clasico.png,"['Elaboración', 'en', 'capas', 'Mascarpone', 'fresco']"
+,Cheesecake de Frutos Rojos,Postre,1500,"Cremoso cheesecake sobre una base de galleta, cubierto con salsa de frutos rojos.",1,"Queso crema
+Galletas
+Manteca
+Azúcar
+Huevos
+Crema de leche
+Frambuesas
+Moras
+Arándanos
+Azúcar
+Limón",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//cheesecake_de_frutos_rojos.png,"['Galleta', 'casera', 'Frutas', 'frescas']"
+,Brownie con Helado de Vainilla,Postre,1100,"Brownie de chocolate denso y húmedo, servido caliente con una bola de helado de vainilla.",1,"Chocolate amargo
+Manteca
+Azúcar
+Huevos
+Harina
+Nueces
+Helado de vainilla
+Salsa de chocolate",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//brownie_con_helado_de_vainilla.png,"['Chocolate', '70%', 'Helado', 'artesanal']"
+,Crème Brûlée,Postre,1400,Cremosa crema de vainilla cubierta con una capa crujiente de azúcar caramelizado.,1,"Crema de leche
+Yemas de huevo
+Azúcar
+Vainilla
+Azúcar",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//creme_brulee.png,"['Caramelizado', 'al', 'momento']"
+,Flan Casero,Postre,1000,Tradicional flan de huevo y leche,1,"Leche
+Huevos
+Azúcar
+Esencia de vainilla",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//flan_casero.png,"['Preparación', 'tradicional', 'Cocción', 'lenta']"
+,Panna Cotta de Coco,Postre,1300,"Delicada panna cotta de coco, acompañada de una salsa de mango y coco rallado.",1,"Crema de coco
+Leche de coco
+Gelatina
+Azúcar
+Mango
+Coco rallado",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//panna_cotta_de_coco.png,"['Ingredientes', 'frescos']"
+,Tarta de Manzana,Postre,1200,"Tarta con base de masa quebrada, rellena de manzanas caramelizadas y canela.",1,"Harina de trigo
+Yema de huevo
+Leche
+Manzanas
+Azúcar
+Canela
+Manteca",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//tarta_de_manzana.png,"['Masa', 'casera']"
+,Mousse de Chocolate,Postre,1400,"Suave y esponjosa mousse de chocolate, decorada con virutas de chocolate.",1,"Chocolate amargo
+Crema de leche
+Claras de huevo
+Azúcar",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//mousse_de_chocolate.png,"['Chocolate', '70%']"
+,Helado Artesanal de Dulce de Leche,Postre,1100,"Helado casero de dulce de leche, servido con trocitos de almendra y salsa de caramelo.",1,"Leche
+Crema de leche
+Dulce de leche
+Azúcar
+Almendras
+Caramelo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//helado_artesanal_de_dulce_de_leche.png,"['Elaboración', 'propia']"
+,Helado Artesanal de Chocolate y Naranja,Postre,1150,"Cremoso helado de chocolate oscuro con un toque cítrico de naranja, decorado con ralladura de naranja y trocitos de chocolate.",1,"Leche
+Crema de leche
+Chocolate amargo
+Azúcar
+Naranja
+Cacao en polvo
+Chocolate rallado",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//helado_artesanal_de_chocolate_y_naranja.png,"['Elaboración', 'propia']"
+,Bruschetta de Tomate y Albahaca,Entrada,800,"Tostadas de pan crujiente cubiertas con una mezcla fresca de tomates cherry, albahaca, ajo y aceite de oliva.",1,"Pan ciabatta
+Tomates cherry
+Albahaca fresca
+Ajo
+Aceite de oliva
+Sal
+Pimienta
+Aceto balsámico",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//bruschetta_de_tomate_y_albahaca.png,"['Pan', 'artesanal', 'Ingredientes', 'frescos']"
+,Empanada de Carne,Entrada,1000,"Clásica empanada argentina rellena de carne de res, cebolla, huevo y aceitunas.",1,"Carne de res picada
+Cebolla
+Huevo
+ceitunas
+Pimentón
+Comino
+Sal
+Pimienta
+Harina",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//empanada_de_carne.png,"['Masa', 'casera', 'Carne', 'orgánica']"
+,Tartar de Salmón,Entrada,1500,"Dados de salmón fresco mezclados con aguacate, cebolla morada y aderezo de limón y soja.",2,"Salmón fresco
+Aguacate
+Cebolla morada
+Cebollín
+Salsa de soja
+Jugo de limón
+Aceite de sésamo
+Semillas de sésamo",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//tartar_de_salmon.png,"['Salmón', 'fresco', 'Corte', 'a', 'mano']"
+,Provoleta a la Parrilla,Entrada,1200,"Rodaja de queso provolone asado a la parrilla, servido con tomates asados.",2,"Queso provolone
+Tomate
+Chimichurri
+Aceite de oliva
+Orégano
+Sal
+Pimienta",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//provoleta_a_la_parrilla.png,"['Cocción', 'a', 'leña']"
+,Ceviche de Pescado Blanco,Entrada,1400,"Trozos de pescado blanco marinados en jugo de limón con cebolla morada, cilantro y pimientos.",1,"Pescado blanco
+Jugo de limón
+Cebolla morada
+Cilantro
+Pimiento rojo
+Ajo
+Sal
+Pimienta",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//ceviche_de_pescado_blanco.png,"['Pescado', 'fresco']"
+,Croquetas de Jamón y Queso,Entrada,900,"Croquetas crujientes rellenas de jamón y queso, acompañadas de una salsa alioli.",1,"Jamón cocido
+Queso mozzarella
+Leche
+Harina
+Huevo
+Pan rallado
+Ajo
+Aceite de oliva
+Limón
+Sal",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//croquetas_de_jamon_y_queso.png,"['Elaboración', 'artesanal']"
+,Gazpacho Andaluz,Entrada,750,"Sopa fría de tomate, pimiento y pepino, servida con crutones y un toque de aceite de oliva.",1,"Tomate
+Pimiento rojo
+Pepino
+Ajo
+Cebolla
+Pan
+Aceite de oliva
+Vinagre de vino
+Sal
+Pimienta",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//gazpacho_andaluz.png,"['Elaboración', 'tradicional', 'Ingredientes', 'frescos']"
+,Calamares a la Romana,Entrada,1300,"Anillos de calamar rebozados y fritos, servidos con salsa tártara.",2,"Calamares
+Harina
+Huevo
+Pan rallado
+Aceite
+Limón
+Perejil
+Mayonesa
+Pepinillos
+Alcaparras",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//calamares_a_la_romana.png,"['Empanizado', 'artesanal', 'Fritos', 'al', 'momento']"
+,Tabla de Quesos,Entrada,1800,"Selección de quesos, acompañados de frutos secos y miel.",3,"Queso brie
+Queso azul
+Queso Gouda
+Queso Cheddar
+Nueces
+Almendras
+Miel
+Uvas",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//tabla_de_quesos.png,"['Selección', 'de', 'guarda']"
+,Patatas Bravas,Entrada,850,Papas fritas acompañadas de una salsa brava picante y alioli.,2,"Papas
+Aceite
+Pimentón
+Ajo
+Tomate
+Vinagre
+Sal
+Mayonesa
+Ajo
+Limón",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//patatas_bravas.png,"['Receta', 'tradicional']"
+,Bife de Chorizo con Papas Rústicas,Plato,3200,Un jugoso bife de chorizo a la parrilla acompañado de papas rústicas y ensalada de hojas verdes.,1,"Bife de chorizo
+Papas
+Aceite de oliva
+Sal
+Pimienta
+Lechuga mantecosa
+Rúcula
+Espinaca cruda
+Tomates cherry",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//bife_de_chorizo_con_papas_rusticas.png,"['Carne', 'orgánica', 'Cocción', 'a', 'leña']"
+,Risotto de Hongos y Parmesano,Plato,2800,"Cremoso risotto elaborado con hongos frescos y queso parmesano, terminado con un toque de aceite de trufa.",1,"Arroz arborio
+Hongos portobello
+Champiñones
+Cebolla
+Ajo
+Vino blanco
+Caldo de verduras
+Queso parmesano
+Aceite de trufa",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//risotto_de_hongos_y_parmesano.png,"['Arroz', 'arborio', 'Cocción', 'al', 'momento']"
+,Pasta a la Carbonara,Plato,2500,"Tradicional pasta italiana en una rica salsa de crema, queso parmesano, panceta crujiente y huevo.",1,"Fideos de pasta tagliatelle
+Panceta
+Huevo
+Crema de leche
+Queso parmesano
+Pimienta negra",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//pasta_a_la_carbonara.png,"['Elaboración', 'propia']"
+,Ensalada de Quinoa y Pollo Grillado,Plato,2100,"Ensalada fresca con quinoa, pollo grillado, palta, tomates cherry, pepino y un aderezo de limón.",1,"Quinoa
+Pechuga de pollo
+Palta
+Tomates cherry
+Pepino
+Lechuga mantecosa
+Limón
+Aceite de oliva
+Sal
+Pimienta",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//ensalada_de_quinoa_y_pollo_grillado.png,"['Quinoa', 'orgánica']"
+,Salmón al Horno con Puré de Batata,Plato,3400,Filete de salmón al horno acompañado de puré de batata y espárragos salteados.,1,"Salmón
+Batata
+Manteca
+Crema de leche
+Espárragos
+Aceite de oliva
+Sal
+Pimienta",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//salmon_al_horno_con_pure_de_batata.png,"['Salmón', 'fresco', 'Cocción', 'en', 'horno', 'de', 'barro']"
+,Milanesa Napolitana con Papas Fritas,Plato,2700,"Clásica milanesa de carne cubierta con jamón, queso, salsa de tomate y orégano, acompañada de papas fritas.",1,"Carne de res
+Huevo
+Pan rallado
+Jamón cocido
+Queso mozzarella
+Salsa de tomate
+Orégano
+Papas
+Aceite",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//milanesa_napolitana_con_papas_fritas.png,"['Empanizado', 'artesanal', 'Ingredientes', 'frescos']"
+,Lomo a la Pimienta con Puré de papas,Plato,3500,"Suave lomo de res con una cremosa salsa de pimienta, acompañado de puré de papas y vegetales al vapor.",1,"Carne Lomo de res
+Pimienta negra
+Crema de leche
+Coñac
+Papas
+Manteca
+Leche
+Queso parmesano
+Sal
+Zanahorias
+Brócoli",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//lomo_a_la_pimienta_con_pure_de_papas.png,"['Carne', 'orgánica', 'Cocción', 'a', 'leña']"
+,Tacos de Pescado con Salsa Tártara,Plato,2300,"Tacos rellenos de pescado fresco rebozado, repollo, aguacate y salsa tártara, servidos con un toque de limón.",1,"Filetes de pescado
+Tortillas de maíz
+Repollo
+Aguacate
+Limón
+Mayonesa
+Pepinillos
+Cebolla
+Jugo de limón
+Sal",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//tacos_de_pescado_con_salsa_tartara.png,"['Pesca', 'del', 'día', 'Salsa', 'casera']"
+,Pollo al Curry con Arroz Basmati,Plato,2600,"Pechuga de pollo en una salsa de curry cremosa con leche de coco, acompañada de arroz basmati.",1,"Pechuga de pollo
+Leche de coco
+Curry en polvo
+Cebolla
+Ajo
+Jengibre
+Arroz basmati
+Cilantro
+Aceite
+Sal",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//pollo_al_curry_con_arroz_basmati.png,"['Especias', 'seleccionadas', 'Cocción', 'lenta']"
+,Vegetariano Stir-Fry con Tofu,Plato,2200,"Salteado de verduras frescas y tofu en salsa de soja, servido sobre una cama de arroz integral.",1,"Tofu
+Zanahorias
+Pimientos
+Brócoli
+Champiñones
+Cebolla
+Ajo
+Salsa de soja
+Aceite de sésamo
+Arroz integral",https://raw.githubusercontent.com/rogelioolarte/s16-01-ft-csharp-react/main/items_images//vegetariano_stir-fry_con_tofu.png,"['Verduras', 'de', 'estación', 'Tofu', 'fresco']"
