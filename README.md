@@ -4,8 +4,7 @@
   <a href="" target="_blank">
     <img width="200" height="200" src="logo.png" alt="Banner">
   </a>
-<h3>Orderly - Good phrase... </h3>
-<h3>Buena frase...</h3>
+<h3>Orderly</h3>
 </div>
 <div>
     <div align='center'>
@@ -22,23 +21,23 @@
 </div>
 <br>
 <!-- USAGE EXAMPLES -->
-<h1> How to Use? - Como usar?</h1>
-<p>...</p>
+<h1>El problema a resolver</h1>
+<p>La falta de un menú claro y atractivo en un bar o restaurante, junto con la dificultad para llevar el seguimiento de lo que consumimos, hace que la experiencia en grupo sea incierta y sin control. Esto puede causar confusión sobre las opciones, errores en la cuenta final y complicaciones en la gestión del presupuesto, afectando negativamente la satisfacción general del grupo.</p>
 <h1> 
-Descripción
+Descripción de la solución
 </h1>
 <p>
-...
+Orderly es una aplicación creada para gestionar pedidos a través de una carta digital en bares y restaurantes. El acceso se realiza mediante un código QR y permite una sesión temporal para todos los usuarios de la mesa, sin necesidad de registro. Los usuarios pueden cerrar la cuenta de manera individualizada, viendo exactamente cuánto gastó cada persona.
 </p>
 <h1>
-Description
+Video promocional
 </h1>
 <p>
-...
+[...](https://drive.google.com/file/d/1zBKj0GOXmGHiv0InUJ1pgqKQeLEOUypP/view?usp=sharing)
 </p>
 <div>
-<h1>Industria o Rubro - Industry</h1>
-<p>...</p>
+<h1>Industria</h1>
+<p>Gastronomía</p>
 </div>
 
 <h1> Tecnologias Usadas - Used technologies
@@ -67,10 +66,6 @@ Description
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4169E1&logo=MySQL&logoColor=FFFFFF&label=)
 
 <!-- Organización -->
-<h1>Herramientas de Organización - Organization Tools</h1>
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Logo" width="90" height="90" style="padding: 2rem;">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Logo" width="60" height="60" style="padding: 2rem;">
 </div>
 <h1 style="margin-top: 2rem"> Equipo s15-13-ft-java-react - Team Members</h1>
 <table align='center'>
@@ -108,32 +103,11 @@ Description
         </a>
         </div>
       </div>
-    </td>
-<td align='center'>
-      <div >
-        <h4 style="margin-top: 1rem;">Lautaro Sartor</br><small>Back-End</small></h4>
-        <div style='display: flex; flex-direction: column; padding-left: 2rem;'>
-        <a href="https://www.linkedin.com/in/lautarosartor/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </div>
-      </div>
-    </td>
-  
+    </td>  
 </tr>
 </table>
 <table align='center'>
   <tr>
-<td align='center'>
-      <div >
-        <h4 style="margin-top: 1rem;">Julian Videla</br><small>Front-End</small></h4>
-        <div style='display: flex; flex-direction: column; width: 100%'>
-        <a href="https://www.linkedin.com/in/julian-videla/" target="_blank">
-          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </div>
-      </div>
-    </td>
     <td align='center'>
       <div >
         <h4 style="margin-top: 1rem;">Rogelio Olarte</br><small>Front-End</small></h4>
@@ -146,9 +120,12 @@ Description
     </td>
     </tr>
 </table>
-<h1>Equipo - Team</h1>
-<div>Foto del equipo</div>
+
 <br/>
 <div>
 <h1>Enlaces del Proyecto - Link of the Project</h1>
+  <h3>Documentación UX/UI</h3>
+  <p>
+[...]([https://drive.google.com/file/d/1zBKj0GOXmGHiv0InUJ1pgqKQeLEOUypP/view?usp=sharing](https://drive.google.com/file/d/1YHnelk4bD6lyT7DXRsRt4fFKMVGHUeTs/view?usp=sharing)
+</p>
 </div>
